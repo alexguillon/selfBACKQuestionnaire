@@ -1,7 +1,7 @@
 # Conversational system for the selfBACK Questionnaire
 #
 #
-[![N|Solid](http://alexandre.guillon.free.fr/images/selfback_logo.png](http://www.selfback.eu/)
+[![N|Solid](http://alexandre.guillon.free.fr/images/selfback_logo.png)](http://www.selfback.eu/)
 
 ## What is selfBACK ?
 ##### selfBACK is a decision support system to improve self-management of non-specific low back pain. The decision support is conveyed to the patient via a smartphone app, in the form of advice for self-management. This advice is always tailored to the patient, and is based on their symptom state, symptom progression, goal setting and other patient characteristics, such as information from a physical activity-detecting wristband worn by the patient.
