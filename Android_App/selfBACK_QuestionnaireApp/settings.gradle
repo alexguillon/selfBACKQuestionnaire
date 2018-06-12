@@ -1,0 +1,2 @@
+include ':app', ':aws-android-sdk-lex'
+project(':aws-android-sdk-lex').projectDir = new File('libs/aws-android-sdk-lex')

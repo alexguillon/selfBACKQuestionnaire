@@ -1,0 +1,6 @@
+    {
+        "dbhost" : "YOUR DATABASE RDS ENDPOINT",
+        "dbname" : "YOUR DATABASE NAME",
+        "dbuser" : "USERNAME",
+        "dbpassword" :"PASSWORD"
+    }

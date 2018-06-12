@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lex Sample</string>
+    <string name="bot_name">YourBotName</string>
+    <string name="bot_alias">$LATEST</string>
+    <string name="identity_id_test">YourCognitoIdentityPoolID</string>
+    <string name="cognito_region">YourCognitoRegion</string>
+    <string name="lex_region">YourLexRegion</string>
+    <string name="screen_options_main_message">Amazon Lex</string>
+    <string name="begin">Click on the microphone icon and say \"begin questionnaire\" to start.</string>
+</resources>

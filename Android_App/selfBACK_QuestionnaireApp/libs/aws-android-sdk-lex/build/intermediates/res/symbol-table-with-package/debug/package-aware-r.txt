@@ -1,0 +1,5 @@
+com.amazonaws.services.lex
+int drawable lex_icon 0x7f090001
+int drawable mic 0x7f090002
+int layout voice_component 0x7f0f0001
+int mipmap selfback 0x7f110001

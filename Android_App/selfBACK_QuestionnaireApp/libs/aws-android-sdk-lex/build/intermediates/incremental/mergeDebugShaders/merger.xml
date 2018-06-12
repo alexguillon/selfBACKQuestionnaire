@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\RGU_Internship\Final_Project\Android_App\selfBACK_QuestionnaireApp\libs\aws-android-sdk-lex\src\main\shaders"/></dataSet><dataSet config="debug"><source path="D:\RGU_Internship\Final_Project\Android_App\selfBACK_QuestionnaireApp\libs\aws-android-sdk-lex\src\debug\shaders"/></dataSet></merger>
